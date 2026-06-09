@@ -1,0 +1,28 @@
+{
+  "status": 1,
+  "info": "",
+  "data": {
+    "new_version": "26.06.080",
+    "cur_version": "26.06.080",
+    "package_size": 132240505,
+    "package_name": "com.daima.im.ai",
+    "download_url": "https://github.com/xsydaima/MatrixAPK/blob/main/apk/pda/pda_release_v26.06.080.apk",
+    "cdn_download_url": "https://github.com/xsydaima/MatrixAPK/blob/main/apk/pda/pda_release_v26.06.080.apk",
+    "other_download_url": [],
+    "share_url": "",
+    "download_times": 0,
+    "apk_local_path": "",
+    "apk_md_5_hash": "ff9ef3b0b5319a48d2ac9cc7862948de",
+    "apk_last_update_on": 0,
+    "apk_last_update_status": 0,
+    "apk_last_update_error": "",
+    "client_force_update": 0,
+    "update_flag": false,
+    "have_new_version": false,
+    "version_description": "优化已知问题",
+    "app_logo": "https://dmchat.daima.mobi:10610/s/img/ic_launcher.png",
+    "app_name": "呆马",
+    "application_id": "com.daima.im.ai",
+    "application_scheme": "aily"
+  }
+}

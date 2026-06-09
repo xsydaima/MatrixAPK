@@ -1,0 +1,28 @@
+{
+  "status": 1,
+  "info": "",
+  "data": {
+    "new_version": "26.05.130",
+    "cur_version": "26.05.130",
+    "package_size": 136029455,
+    "package_name": "com.daima.im.ai",
+    "download_url": "https://github.com/xsydaima/MatrixAPK/blob/main/apk/wear/wear_release_v26.05.130.apk",
+    "cdn_download_url": "https://github.com/xsydaima/MatrixAPK/blob/main/apk/wear/wear_release_v26.05.130.apk",
+    "other_download_url": [],
+    "share_url": "",
+    "download_times": 0,
+    "apk_local_path": "",
+    "apk_md_5_hash": "7f2edb3c13c13e5d4bf445c35bc4afce",
+    "apk_last_update_on": 0,
+    "apk_last_update_status": 0,
+    "apk_last_update_error": "",
+    "client_force_update": 0,
+    "update_flag": false,
+    "have_new_version": false,
+    "version_description": "优化已知问题",
+    "app_logo": "",
+    "app_name": "呆马",
+    "application_id": "com.daima.im.ai",
+    "application_scheme": "aily"
+  }
+}

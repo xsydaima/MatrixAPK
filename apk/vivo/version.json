@@ -1,6 +1,7 @@
 {
     "new_version": "26.06.110",
     "cur_version": "26.06.110",
+    "client_version_force": "26.06.110",
     "client_force_update": 1,
     "package_size": 131694226,
     "package_name": "com.daima.im.ai",

@@ -1,0 +1,47 @@
+{
+  "daima_com.daima.im": {
+    "apk_size_bytes": 220881896,
+    "apk_md5": "947a325f76706ce40a7037078879acaf",
+    "version_name": "26.07.0",
+    "version_code": 202607000,
+    "application_id": "com.daima.im",
+    "download_urls": [
+      "https://xs-oss.dmds.xyz/lushilin2/uploads/app_update/7/202607000.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.07.0-202607000/daima_com.daima.im_v26.07.0_202607000.apk"
+    ],
+    "store_url": "",
+    "release_notes": "### 更新日志\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1",
+    "minimum_version_name": "",
+    "minimum_version_code": 0
+  },
+  "daima_com.daima.im.ai": {
+    "apk_size_bytes": 175361188,
+    "apk_md5": "964edee8d139a6f5bdff5c74a7963df8",
+    "version_name": "26.08.5",
+    "version_code": 202608050,
+    "application_id": "com.daima.im.ai",
+    "download_urls": [
+      "https://xs-oss.dmds.xyz/lushilin2/uploads/app_update/9/202608050.apk",
+      "https://github.com/xsydaima/MatrixAPK/releases/download/daima-v26.08.5-202608050/daima_com.daima.im.ai_v26.08.5_202608050.apk"
+    ],
+    "store_url": "",
+    "release_notes": "# 更新日志\n\n- 新增头像裁剪功能\n- 完善群视频会议来电提醒\n- 优化房间信息及会话摘要展示\n- 优化语音转文字和 Token 余额提示\n- 优化应用更新弹窗及线路延迟展示\n- 修复弱网下消息重复发送问题\n- 修复网络恢复后仍显示离线的问题\n- 修复通讯录搜索及提及昵称显示问题",
+    "minimum_version_name": "",
+    "minimum_version_code": 0
+  },
+  "wear_com.daima.wear.ai": {
+    "apk_size_bytes": 96000197,
+    "apk_md5": "f218cceb7cc5b59876f2b73dc6474abc",
+    "version_name": "26.07.150",
+    "version_code": 151,
+    "application_id": "com.daima.wear.ai",
+    "download_urls": [
+      "https://xs-oss.dmds.xyz/lushilin2/uploads/app_update/3/151.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/wear-v26.07.150-151/wear_com.daima.wear.ai_v26.07.150_151.apk"
+    ],
+    "store_url": "",
+    "release_notes": "#更新测试\n#更新测试\n#更新测试\n#更新测试\n#更新测试",
+    "minimum_version_name": "",
+    "minimum_version_code": 0
+  }
+}

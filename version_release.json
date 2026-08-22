@@ -15,17 +15,16 @@
     "minimum_version_code": 0
   },
   "daima_com.daima.im.ai": {
-    "apk_size_bytes": 175361188,
-    "apk_md5": "964edee8d139a6f5bdff5c74a7963df8",
-    "version_name": "26.08.5",
-    "version_code": 202608050,
+    "apk_size_bytes": 221250007,
+    "apk_md5": "a348fdd18e472c2d2d289c1e9edbc25c",
+    "version_name": "26.08.20",
+    "version_code": 202608200,
     "application_id": "com.daima.im.ai",
     "download_urls": [
-      "https://xs-oss.dmds.xyz/lushilin2/uploads/app_update/9/202608050.apk",
-      "https://github.com/xsydaima/MatrixAPK/releases/download/daima-v26.08.5-202608050/daima_com.daima.im.ai_v26.08.5_202608050.apk"
+      "https://xs-oss.dmds.xyz/lushilin2/uploads/app_update/9/202608200.apk"
     ],
     "store_url": "",
-    "release_notes": "# 更新日志\n\n- 新增头像裁剪功能\n- 完善群视频会议来电提醒\n- 优化房间信息及会话摘要展示\n- 优化语音转文字和 Token 余额提示\n- 优化应用更新弹窗及线路延迟展示\n- 修复弱网下消息重复发送问题\n- 修复网络恢复后仍显示离线的问题\n- 修复通讯录搜索及提及昵称显示问题",
+    "release_notes": "版本 26.08.20 更新",
     "minimum_version_name": "",
     "minimum_version_code": 0
   },
